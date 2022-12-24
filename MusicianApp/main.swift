@@ -9,3 +9,6 @@ import Foundation
 
 print("Hello, World!")
 
+let james = Musicians(name: "James", age: 50, instrument: "Guitar", musicType: .LeadGuitar)
+
+print(james.age)
